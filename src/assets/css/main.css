@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(245, 248, 248);
+}
+
+.no-padding
+
+{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-left: 0px!important;
+    padding-right:3px!important;
+}
